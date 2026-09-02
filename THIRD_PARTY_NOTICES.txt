@@ -1,0 +1,39 @@
+PandocFlow-CN third-party notices
+=================================
+
+PandocFlow
+Source: https://github.com/Fireooout/PandocFlow
+License: MIT
+Copyright (c) 2026 Zheng Zhi
+The full MIT license is included in LICENSE.
+
+Pandoc
+Source: https://pandoc.org and https://github.com/jgm/pandoc
+License: GPL-2.0-or-later
+Copyright (c) 2006-2025 John MacFarlane
+Pandoc is bundled without modification. Its source code and license are
+available from the URLs above. The complete corresponding source is available
+from the upstream project under the terms of the GNU GPL.
+
+PyQt6 / Qt 6
+Source: https://www.riverbankcomputing.com/software/pyqt/
+License: GPL-3.0 (this distribution uses the GPL edition)
+Qt source and license information: https://www.qt.io/download-open-source
+
+PyInstaller bootloader
+Source: https://pyinstaller.org/
+License: GPL-2.0-or-later with a special exception permitting distribution of
+bundled applications.
+
+Typst
+Source: https://github.com/typst/typst
+License: Apache-2.0
+Copyright (c) Typst GmbH
+Typst is bundled without modification. Its license is available from the
+upstream project and at https://www.apache.org/licenses/LICENSE-2.0.
+
+License note
+------------
+This project is distributed under GPL-3.0-or-later. Each bundled component
+retains its own upstream copyright and license. See the upstream links above
+for the corresponding source and license texts.

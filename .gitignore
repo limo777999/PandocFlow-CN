@@ -1,0 +1,13 @@
+build/
+dist/
+__pycache__/
+*.py[cod]
+*.log
+.env
+.venv/
+venv/
+.idea/
+.vscode/
+*.tmp
+*.bak
+PandocFlow-CN.exe
